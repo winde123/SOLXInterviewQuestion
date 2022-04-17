@@ -1,0 +1,6 @@
+{
+    "env": {
+        "googleSignUpURL" : "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp",
+        "googleSignInURL" : "https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+    }
+}
