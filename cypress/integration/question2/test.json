@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "Name": "Rajesh",
+            "age": "27",
+            "address": {
+                "streetAddress": "1417 Heavner Avenue",
+                "city": "Atlanta",
+                "state": "GA",
+                "postalCode": "30329"
+            }
+        },
+        {
+            "Name": "Steve",
+            "age": "32",
+            "address": {
+                "streetAddress": "1003 Lakewood Drive",
+                "city": "AGAWAM",
+                "state": "MA",
+                "postalCode": "01001"
+            }
+        },
+        {
+            "Name": "Novak",
+            "age": "17",
+            "address": {
+                "streetAddress": "178 Elm Drive",
+                "city": "New York",
+                "state": "NY",
+                "postalCode": "10011"
+            }
+        },
+        {
+            "Name": "Peter",
+            "age": "31",
+            "address": {
+                "streetAddress": "350 Christie Way",
+                "city": "Framingham",
+                "state": "MA",
+                "postalCode": "01701"
+            }
+        }
+    ]
+}
