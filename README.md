@@ -5,5 +5,5 @@ To run the Tcs in cypress :
 
 To run the script for question 2:
 
-`cd cypress/integration/question2`
+`cd cypress/integration/question2`  
 `node question2.js `
