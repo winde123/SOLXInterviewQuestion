@@ -1,4 +1,4 @@
-# capitaSpringInterviewQuestion
+# SOLXInterviewQuestion
 
 To run the Tcs in cypress :
 `npx cypress open`
