@@ -1,4 +1,6 @@
 # SOLXInterviewQuestion
+To install cypress:  
+`npx intall cypress`
 
 To run the Tcs in cypress :
 `npx cypress open`
